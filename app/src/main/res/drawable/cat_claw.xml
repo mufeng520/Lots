@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- 外圈大圆 -->
+    <path
+        android:fillColor="#FFB6C1"
+        android:pathData="M100,20 a80,80 0 1,0 0,160 a80,80 0 1,0 0,-160"
+        android:strokeColor="#FF69B4"
+        android:strokeWidth="3"/>
+
+    <!-- 中央主肉垫 -->
+    <path
+        android:fillColor="#FF69B4"
+        android:pathData="M150,100 a20,20 3 10 10 20,90"
+        android:strokeColor="#FF1493"
+        android:strokeWidth="2"/>
+
+    <!-- 上方四个小爪垫 -->
+<!--    <group-->
+<!--        android:rotation="20"-->
+<!--        android:pivotX="100"-->
+<!--        android:pivotY="70">-->
+<!--        <path-->
+<!--            android:fillColor="#FF69B4"-->
+<!--            android:pathData="M80,50 a20,30 0 1 0 40,0"-->
+<!--            android:strokeColor="#FF1493"-->
+<!--            android:strokeWidth="2"/>-->
+<!--    </group>-->
+
+<!--    <group-->
+<!--        android:rotation="-20"-->
+<!--        android:pivotX="100"-->
+<!--        android:pivotY="70">-->
+<!--        <path-->
+<!--            android:fillColor="#FF69B4"-->
+<!--            android:pathData="M80,50 a20,30 0 1 0 40,0"-->
+<!--            android:strokeColor="#FF1493"-->
+<!--            android:strokeWidth="2"/>-->
+<!--    </group>-->
+
+<!--    &lt;!&ndash; 下方两个小爪垫 &ndash;&gt;-->
+<!--    <path-->
+<!--        android:fillColor="#FF69B4"-->
+<!--        android:pathData="M60,140 a25,35 0 1 0 80,0"-->
+<!--        android:strokeColor="#FF1493"-->
+<!--        android:strokeWidth="2"/>-->
+
+</vector>

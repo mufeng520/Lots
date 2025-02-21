@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+<!--    天空-->
+    <color name="sky_a">#F9FEFF</color>
+    <color name="sky_b">#F1FAFD</color>
+    <color name="sky_c">#E1F6FD</color>
+    <color name="sky_d">#D1F0FA</color>
+    <color name="sky_e">#BEE7F5</color>
+    <color name="sky_f">#A9DAED</color>
+    <color name="sky_g">#8DCAE3</color>
+    <color name="sky_h">#60B3D7</color>
+    <color name="sky_i">#7CE2FE</color>
+    <color name="sky_j">#74DAF8</color>
+    <color name="sky_k">#00749E</color>
+    <color name="sky_l">#1D3E56</color>
+</resources>
